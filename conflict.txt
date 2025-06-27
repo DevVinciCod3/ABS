@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Hello from Francis-orig
-=======
-Hello from Francis-copy
->>>>>>> francis1
+
